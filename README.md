@@ -19,7 +19,8 @@
 </br>
 </br>
 
-🌱[개발 블로그](https://cosmosscoding.tistory.com)
+📙[티스토리 블로그](https://cosmosscoding.tistory.com)
+📗[벨로그](https://velog.io/@cosmoss/posts)
 
 <!--
 **cosmoss919/cosmoss919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
