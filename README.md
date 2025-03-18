@@ -52,6 +52,8 @@ css컬러 : 검색한 아이콘에서 css컬러 입력 (예시 : 007396)
   
   <img src="https://img.shields.io/badge/GitHub-181717?&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?&logo=Notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PM2-2B037A?&logo=PM2&logoColor=white"/>
   
   </br>
   
@@ -62,12 +64,12 @@ css컬러 : 검색한 아이콘에서 css컬러 입력 (예시 : 007396)
 
   </br>
   
-- Learning
-  
-  <img src="https://img.shields.io/badge/MongoDB-47A248?&logo=MongoDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?&logo=amazonwebservices&logoColor=white"/>
+- Learning  
 
+  <img src="https://img.shields.io/badge/AWS-FF9900?&logo=amazonwebservices&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/java-007396?&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?&logo=Spring&logoColor=white"/>
+  
 </br>
 </br>
 
