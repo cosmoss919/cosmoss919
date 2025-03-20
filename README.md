@@ -54,6 +54,7 @@ css컬러 : 검색한 아이콘에서 css컬러 입력 (예시 : 007396)
   <img src="https://img.shields.io/badge/Notion-000000?&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/PM2-2B037A?&logo=PM2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jenkins-D24939?&logo=jenkins&logoColor=white"/>
   
   </br>
   
